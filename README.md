@@ -1,8 +1,4 @@
-# Project-2
 
----
-
-### 프로젝트 2 README 템플릿 (`project2/README.md`)
 
 ```markdown
 # プロジェクト 2: 観光客向けカフェ推薦ウェブアプリケーション
